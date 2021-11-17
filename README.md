@@ -1,4 +1,4 @@
-# Trickbot DLL Module downloadet + decrypted
+# Trickbot DLL Module downloaded + decrypted
 
     anubisDll32
 
